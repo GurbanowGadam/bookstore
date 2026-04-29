@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/bookstore.dir/main.cpp.o CMakeFiles/bookstore.dir/src/Book.cpp.o CMakeFiles/bookstore.dir/src/PrintedBook.cpp.o CMakeFiles/bookstore.dir/src/EBook.cpp.o CMakeFiles/bookstore.dir/src/AudioBook.cpp.o CMakeFiles/bookstore.dir/src/Bookstore.cpp.o CMakeFiles/bookstore.dir/src/Order.cpp.o CMakeFiles/bookstore.dir/src/BookstoreException.cpp.o -o bookstore 

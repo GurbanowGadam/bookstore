@@ -1,0 +1,3 @@
+/home/gadamgurban/University/Semester_2/POO/Lab/bookstore/build/CMakeFiles/bookstore.dir
+/home/gadamgurban/University/Semester_2/POO/Lab/bookstore/build/CMakeFiles/edit_cache.dir
+/home/gadamgurban/University/Semester_2/POO/Lab/bookstore/build/CMakeFiles/rebuild_cache.dir
